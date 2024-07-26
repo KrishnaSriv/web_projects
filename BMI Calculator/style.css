@@ -1,0 +1,30 @@
+.canvas{
+    text-align: center;
+}
+h1{
+    margin-bottom: 50px;
+}
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    background-color: bisque;
+}
+
+.measure{
+    background-color: #F1AB64;
+}
+.measure:hover{
+    border:2px solid brown;
+    border-radius: 5%;
+}
+button{
+    font-size: 25px;
+    background-color: lightcoral;
+}
+#results{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    font-size: 50px;
+}
